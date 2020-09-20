@@ -11,6 +11,7 @@ public class HoursWorked {
     }
 
     public Boolean endTimeIsAfterStartTime(int startTime, int endTime) {
+        // Handling 12am -4am since start time will be 17 or later
         if(endTime < 4) {
             endTime += + 24;
         }
@@ -18,6 +19,8 @@ public class HoursWorked {
         }
 
     public Boolean isTimeValid(int startTime, int endTime){
+        // Checking for valid start time and a valid end time and end
+        // time is after start time
         return isStartValidTime(startTime) && isValidEndTime(endTime)
                 && endTimeIsAfterStartTime(startTime, endTime);
     }

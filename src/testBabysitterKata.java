@@ -37,15 +37,15 @@ public class testBabysitterKata {
         assertTrue(hoursWorked.isStartValidTime(20)); // 8:00pm
         assertTrue(hoursWorked.isValidEndTime(1)); // 1:00am
         assertFalse(hoursWorked.isValidEndTime(5)); // 5:00am
-        assertTrue(hoursWorked.endTimeIsAfterStartTime(17, 2));
-        assertTrue(hoursWorked.isTimeValid(17, 2));
+        assertTrue(hoursWorked.endTimeIsAfterStartTime(17, 2)); // // 5pm, 2am
+        assertTrue(hoursWorked.isTimeValid(17, 2)); // 5pm - 2am
     }
 
     @Test
     public void familyAPayTest(){
         FamilyPayRate familyAPayRate = new FamilyPayRate(15);
-        assertEquals(110, familyAPayRate.familyAPay(17,24));
-        assertEquals(50, familyAPayRate.familyAPay(17, 21));
+        assertEquals(110, familyAPayRate.familyAPay(17,24)); // 5pm - 12am
+        assertEquals(50, familyAPayRate.familyAPay(17,21)); // 5pm - 11pm
     }
 
     @Test
@@ -59,6 +59,6 @@ public class testBabysitterKata {
     public void familyBPayTest() {
         FamilyPayRate familyBPayRate = new FamilyPayRate(12);
         assertEquals(140, familyBPayRate.familyBPay(17,4)); // 5:00pm - 4am
-        assertEquals(68, familyBPayRate.familyBPay(17, 23)); // 5pm - 11pm
+        assertEquals(68, familyBPayRate.familyBPay(17,23)); // 5pm - 11pm
     }
 }
