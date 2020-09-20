@@ -1,6 +1,4 @@
-import java.time.Instant;
-import java.time.ZoneId;
-import java.time.ZonedDateTime;
+
 
 public class HoursWorked {
 
@@ -8,16 +6,18 @@ public class HoursWorked {
         return startHour >= 17;
         }
 
-    public Boolean isValidEndTime(Long timeInMillis){
-        return ZonedDateTime.ofInstant(Instant.ofEpochMilli(timeInMillis),
-                ZoneId.systemDefault()).minusMinutes(1).getHour() <= 3;
+    public Boolean isValidEndTime(int endHour){
+        return endHour <= 3;
     }
 
-    public Boolean endTimeIsAfterStartTime(Long startTime, Long endTime) {
+    public Boolean endTimeIsAfterStartTime(int startTime, int endTime) {
+        if(endTime < 4) {
+            endTime += + 24;
+        }
         return startTime <= endTime;
         }
 
-    public Boolean isTimeValid(Long startTime, Long endTime){
+    public Boolean isTimeValid(int startTime, int endTime){
         return isStartValidTime(startTime) && isValidEndTime(endTime)
                 && endTimeIsAfterStartTime(startTime, endTime);
     }

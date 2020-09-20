@@ -32,13 +32,13 @@ public class testBabysitterKata {
     @Test
     public void isValidTimeTest(){
         HoursWorked hoursWorked = new HoursWorked();
-        assertFalse(hoursWorked.isStartValidTime(1595165495000L)); // 08:31am
-        assertTrue(hoursWorked.isStartValidTime(1595196000000L)); // 5:00pm
-        assertTrue(hoursWorked.isStartValidTime(1595203200000L)); // 7:00pm
-        assertTrue(hoursWorked.isValidEndTime(1595149200000L)); // 4:00am
-        assertFalse(hoursWorked.isValidEndTime(1595149260000L)); // 4:01am
-        assertTrue(hoursWorked.endTimeIsAfterStartTime(1595152800000L, 1595235600000L));
-        assertTrue(hoursWorked.isTimeValid(1595203200000L, 1595228400000L));
+        assertFalse(hoursWorked.isStartValidTime(15)); // 3:00PM
+        assertTrue(hoursWorked.isStartValidTime(18)); // 6:00pm
+        assertTrue(hoursWorked.isStartValidTime(20)); // 8:00pm
+        assertTrue(hoursWorked.isValidEndTime(1)); // 1:00am
+        assertFalse(hoursWorked.isValidEndTime(5)); // 5:00am
+        assertTrue(hoursWorked.endTimeIsAfterStartTime(17, 2));
+        assertTrue(hoursWorked.isTimeValid(17, 2));
     }
 
     @Test
