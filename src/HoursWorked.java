@@ -4,9 +4,8 @@ import java.time.ZonedDateTime;
 
 public class HoursWorked {
 
-    public Boolean isStartValidTime(Long timeInMillis){
-        return ZonedDateTime.ofInstant(Instant.ofEpochMilli(timeInMillis),
-                ZoneId.systemDefault()).getHour() >= 17;
+    public Boolean isStartValidTime(int startHour){
+        return startHour >= 17;
         }
 
     public Boolean isValidEndTime(Long timeInMillis){

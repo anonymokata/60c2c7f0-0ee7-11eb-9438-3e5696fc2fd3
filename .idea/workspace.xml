@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a2b03ed-45c1-4c1c-b6c2-6ab71e87b074" name="Default Changelist" comment="" />
+    <list default="true" id="3a2b03ed-45c1-4c1c-b6c2-6ab71e87b074" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1e0P9kdhpXAenST5SfLCzMwsMsH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -31,9 +39,10 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/lib/javafx-sdk-12.0.1/lib/javafx.web.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -49,6 +58,19 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
   <component name="RunManager" selected="JUnit.testBabysitterKata.familyBPayTest">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="testBabysitterKata.familyAPayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BabysitterKata" />
       <option name="PACKAGE_NAME" value="" />
@@ -127,6 +149,7 @@
       <workItem from="1593954031232" duration="6341000" />
       <workItem from="1595163725755" duration="10071000" />
       <workItem from="1600610458213" duration="4014000" />
+      <workItem from="1600614695741" duration="1246000" />
     </task>
     <servers />
   </component>
@@ -142,10 +165,18 @@
       <screen x="-1" y="-1080" width="1920" height="1040" />
     </state>
     <state x="714" y="-862" key="#xdebugger.evaluate/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@-1.-1080.1920.1040" timestamp="1595168122006" />
-    <state x="2659" y="-849" key="FileChooserDialogImpl" timestamp="1600614460228">
+    <state x="2659" y="-849" key="FileChooserDialogImpl" timestamp="1600614857782">
       <screen x="1919" y="-1090" width="1920" height="999" />
     </state>
-    <state x="2659" y="-849" key="FileChooserDialogImpl/0.0.1536.824/1919.-1090.1920.999/-1.-1080.1920.1040@1919.-1090.1920.999" timestamp="1600614460228" />
+    <state x="2659" y="-849" key="FileChooserDialogImpl/0.0.1536.824/1919.-1090.1920.999/-1.-1080.1920.1040@1919.-1090.1920.999" timestamp="1600614857782" />
+    <state x="2717" y="-693" key="Github.ShareDialog" timestamp="1600615109743">
+      <screen x="1919" y="-1090" width="1920" height="999" />
+    </state>
+    <state x="2717" y="-693" key="Github.ShareDialog/0.0.1536.824/1919.-1090.1920.999/-1.-1080.1920.1040@1919.-1090.1920.999" timestamp="1600615109743" />
+    <state x="2624" y="-902" key="Github.UntrackedFilesDialog" timestamp="1600615122335">
+      <screen x="1919" y="-1090" width="1920" height="999" />
+    </state>
+    <state x="2624" y="-902" key="Github.UntrackedFilesDialog/0.0.1536.824/1919.-1090.1920.999/-1.-1080.1920.1040@1919.-1090.1920.999" timestamp="1600615122335" />
     <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1595179942095">
       <screen x="-1" y="-1080" width="1920" height="1040" />
     </state>
