@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a2b03ed-45c1-4c1c-b6c2-6ab71e87b074" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e0P9kdhpXAenST5SfLCzMwsMsH" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/lib/javafx-sdk-12.0.1/lib/javafx.web.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager" selected="JUnit.testBabysitterKata.familyBPayTest">
+    <configuration name="testBabysitterKata.familyAPayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BabysitterKata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testBabysitterKata" />
+      <option name="METHOD_NAME" value="familyAPayTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testBabysitterKata.familyBPayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BabysitterKata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testBabysitterKata" />
+      <option name="METHOD_NAME" value="familyBPayTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testBabysitterKata.familyCPayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BabysitterKata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testBabysitterKata" />
+      <option name="METHOD_NAME" value="familyCPayTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testBabysitterKata.isValidTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BabysitterKata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testBabysitterKata" />
+      <option name="METHOD_NAME" value="isValidTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testBabysitterKata.isValidTimeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BabysitterKata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testBabysitterKata" />
+      <option name="METHOD_NAME" value="isValidTimeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.testBabysitterKata.familyBPayTest" />
+        <item itemvalue="JUnit.testBabysitterKata.familyCPayTest" />
+        <item itemvalue="JUnit.testBabysitterKata.familyAPayTest" />
+        <item itemvalue="JUnit.testBabysitterKata.isValidTimeTest" />
+        <item itemvalue="JUnit.testBabysitterKata.isValidTime" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a2b03ed-45c1-4c1c-b6c2-6ab71e87b074" name="Default Changelist" comment="" />
+      <created>1593455387354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593455387354</updated>
+      <workItem from="1593455390480" duration="2001000" />
+      <workItem from="1593953750787" duration="17000" />
+      <workItem from="1593953816860" duration="62000" />
+      <workItem from="1593953962026" duration="55000" />
+      <workItem from="1593954031232" duration="6341000" />
+      <workItem from="1595163725755" duration="10071000" />
+      <workItem from="1600610458213" duration="4014000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="149" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1593953758361">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="450" y="149" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@0.0.1536.824" timestamp="1593953758361" />
+    <state x="714" y="-862" key="#xdebugger.evaluate" timestamp="1595168122006">
+      <screen x="-1" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="714" y="-862" key="#xdebugger.evaluate/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@-1.-1080.1920.1040" timestamp="1595168122006" />
+    <state x="2659" y="-849" key="FileChooserDialogImpl" timestamp="1600614460228">
+      <screen x="1919" y="-1090" width="1920" height="999" />
+    </state>
+    <state x="2659" y="-849" key="FileChooserDialogImpl/0.0.1536.824/1919.-1090.1920.999/-1.-1080.1920.1040@1919.-1090.1920.999" timestamp="1600614460228" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1595179942095">
+      <screen x="-1" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@-1.-1080.1920.1040" timestamp="1595179942095" />
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@0.0.1536.824" timestamp="1594082228479" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1595179942095">
+      <screen x="-1" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@-1.-1080.1920.1040" timestamp="1595179942095" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@0.0.1536.824" timestamp="1594082228478" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1595179942095">
+      <screen x="-1" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@-1.-1080.1920.1040" timestamp="1595179942095" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@0.0.1536.824" timestamp="1594082228478" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1595179942095">
+      <screen x="-1" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@-1.-1080.1920.1040" timestamp="1595179942095" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@0.0.1536.824" timestamp="1594082228479" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1595179942095">
+      <screen x="-1" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@-1.-1080.1920.1040" timestamp="1595179942095" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1595179942095">
+      <screen x="-1" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@-1.-1080.1920.1040" timestamp="1595179942095" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1595179942095">
+      <screen x="-1" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@-1.-1080.1920.1040" timestamp="1595179942095" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1595179942095">
+      <screen x="-1" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@-1.-1080.1920.1040" timestamp="1595179942095" />
+    <state x="498" y="305" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1594079342991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="305" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@0.0.1536.824" timestamp="1594079342991" />
+    <state x="203" y="34" key="new project wizard" timestamp="1593647605173">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="203" y="34" key="new project wizard/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@0.0.1536.824" timestamp="1593647605173" />
+    <state x="2542" y="-874" width="672" height="652" key="search.everywhere.popup" timestamp="1600610630203">
+      <screen x="1919" y="-1090" width="1920" height="999" />
+    </state>
+    <state x="622" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@-1.-1080.1920.1040" timestamp="1595166697973" />
+    <state x="2542" y="-874" width="672" height="652" key="search.everywhere.popup/0.0.1536.824/1919.-1090.1920.999/-1.-1080.1920.1040@1919.-1090.1920.999" timestamp="1600610630203" />
+  </component>
+</project>
