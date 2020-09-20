@@ -33,16 +33,22 @@ public class Main {
             familyLetter.equals("C"))) {
             System.out.println("Please enter a different letter.");
         }
+        // Instantiate object
+        FamilyPayRate familyPay = new FamilyPayRate(0);
 
         switch(familyLetter) {
             case "A":
-                return familyAPay;
+                // catch it and print it
+                int cost = familyPay.familyAPay(startTime, endTime);
+                System.out.println(cost);
                 break;
             case "B":
-                // code block
+                cost = familyPay.familyBPay(startTime, endTime);
+                System.out.println(cost);
                 break;
             case "C":
-                // code block
+                cost = familyPay.familyCPay(startTime, endTime);
+                System.out.println(cost);
             default:
                 System.out.println("You have entered a wrong family.");
         }
