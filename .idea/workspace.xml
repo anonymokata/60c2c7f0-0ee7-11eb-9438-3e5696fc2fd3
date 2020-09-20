@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a2b03ed-45c1-4c1c-b6c2-6ab71e87b074" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/HoursWorked.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HoursWorked.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testBabysitterKata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testBabysitterKata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FamilyPayRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FamilyPayRate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
-  <component name="RunManager" selected="JUnit.testBabysitterKata.isValidTimeTest">
+  <component name="RunManager" selected="JUnit.testBabysitterKata">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -66,6 +67,15 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testBabysitterKata" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BabysitterKata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testBabysitterKata" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,16 +110,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testBabysitterKata.isValidTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BabysitterKata" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="testBabysitterKata" />
-      <option name="METHOD_NAME" value="isValidTime" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="testBabysitterKata.isValidTimeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BabysitterKata" />
       <option name="PACKAGE_NAME" value="" />
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.testBabysitterKata" />
         <item itemvalue="JUnit.testBabysitterKata.isValidTimeTest" />
         <item itemvalue="JUnit.testBabysitterKata.familyBPayTest" />
         <item itemvalue="JUnit.testBabysitterKata.familyCPayTest" />
         <item itemvalue="JUnit.testBabysitterKata.familyAPayTest" />
-        <item itemvalue="JUnit.testBabysitterKata.isValidTime" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +148,7 @@
       <workItem from="1593954031232" duration="6341000" />
       <workItem from="1595163725755" duration="10071000" />
       <workItem from="1600610458213" duration="4014000" />
-      <workItem from="1600614695741" duration="1710000" />
+      <workItem from="1600614695741" duration="2594000" />
     </task>
     <servers />
   </component>
@@ -176,26 +176,30 @@
       <screen x="1919" y="-1090" width="1920" height="999" />
     </state>
     <state x="2624" y="-902" key="Github.UntrackedFilesDialog/0.0.1536.824/1919.-1090.1920.999/-1.-1080.1920.1040@1919.-1090.1920.999" timestamp="1600615122335" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1595179942095">
-      <screen x="-1" y="-1080" width="1920" height="1040" />
+    <state width="1877" height="267" key="GridCell.Tab.0.bottom" timestamp="1600616670458">
+      <screen x="1919" y="-1090" width="1920" height="999" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@-1.-1080.1920.1040" timestamp="1595179942095" />
     <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@0.0.1536.824" timestamp="1594082228479" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1595179942095">
-      <screen x="-1" y="-1080" width="1920" height="1040" />
+    <state width="1877" height="267" key="GridCell.Tab.0.bottom/0.0.1536.824/1919.-1090.1920.999/-1.-1080.1920.1040@1919.-1090.1920.999" timestamp="1600616670458" />
+    <state width="1877" height="267" key="GridCell.Tab.0.center" timestamp="1600616670458">
+      <screen x="1919" y="-1090" width="1920" height="999" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@-1.-1080.1920.1040" timestamp="1595179942095" />
     <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@0.0.1536.824" timestamp="1594082228478" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1595179942095">
-      <screen x="-1" y="-1080" width="1920" height="1040" />
+    <state width="1877" height="267" key="GridCell.Tab.0.center/0.0.1536.824/1919.-1090.1920.999/-1.-1080.1920.1040@1919.-1090.1920.999" timestamp="1600616670458" />
+    <state width="1877" height="267" key="GridCell.Tab.0.left" timestamp="1600616670458">
+      <screen x="1919" y="-1090" width="1920" height="999" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@-1.-1080.1920.1040" timestamp="1595179942095" />
     <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@0.0.1536.824" timestamp="1594082228478" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1595179942095">
-      <screen x="-1" y="-1080" width="1920" height="1040" />
+    <state width="1877" height="267" key="GridCell.Tab.0.left/0.0.1536.824/1919.-1090.1920.999/-1.-1080.1920.1040@1919.-1090.1920.999" timestamp="1600616670458" />
+    <state width="1877" height="267" key="GridCell.Tab.0.right" timestamp="1600616670458">
+      <screen x="1919" y="-1090" width="1920" height="999" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@-1.-1080.1920.1040" timestamp="1595179942095" />
     <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824/1919.-1090.1920.1040/-1.-1080.1920.1040@0.0.1536.824" timestamp="1594082228479" />
+    <state width="1877" height="267" key="GridCell.Tab.0.right/0.0.1536.824/1919.-1090.1920.999/-1.-1080.1920.1040@1919.-1090.1920.999" timestamp="1600616670458" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1595179942095">
       <screen x="-1" y="-1080" width="1920" height="1040" />
     </state>

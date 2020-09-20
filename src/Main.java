@@ -34,5 +34,17 @@ public class Main {
             System.out.println("Please enter a different letter.");
         }
 
+        switch(familyLetter) {
+            case "A":
+                return familyAPay;
+                break;
+            case "B":
+                // code block
+                break;
+            case "C":
+                // code block
+            default:
+                System.out.println("You have entered a wrong family.");
+        }
     }
 }
